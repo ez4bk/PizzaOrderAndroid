@@ -1,0 +1,2 @@
+rootProject.name = "Porject5_PizzaOrderAndroid"
+include ':app'
